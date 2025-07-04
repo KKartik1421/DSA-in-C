@@ -37,7 +37,7 @@ This repository currently covers:
 ## 📌 Getting Started
 
 ### 1. Clone the repository:
-bash
+```bash
 git clone https://github.com/KKartik1421/DSA-in-C.git
 cd DSA-in-C
 gcc filename.c -o output
